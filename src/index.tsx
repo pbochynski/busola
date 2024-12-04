@@ -26,6 +26,7 @@ import './styles/sapIllus-Fills.css';
 import './styles/sapIllus-Layout.css';
 import './styles/index.scss';
 import './styles/fiori-helpers.scss';
+import '@hey-web-components/monaco-editor';
 import { createRoot } from 'react-dom/client';
 
 i18next
